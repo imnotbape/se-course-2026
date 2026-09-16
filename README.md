@@ -1,1 +1,1 @@
-# se-course-2026-
+# se-course-2026
